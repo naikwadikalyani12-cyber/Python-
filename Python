@@ -1,0 +1,2 @@
+marks = [float(input("Enter marks: ")) for _ in range(5)]
+print("Percentage =", sum(marks)/5)
